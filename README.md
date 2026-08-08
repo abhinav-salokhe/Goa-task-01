@@ -54,14 +54,6 @@ A web tool for the **HH Goa 2026 Shortlisting Task** where users upload a photo 
    npm run preview
    ```
 
----
 
-## 📋 Task Submission Instructions
-
-1. **Live Link**: Deploy to Vercel.
-2. **Post on X**: Generate your badge, hit **Share to X**, and post with the hashtag `#FrameInGoa`.
-3. **Submit Form**: Fill the Google Form at [https://forms.gle/jM5hTaGvsrfEfixPA](https://forms.gle/jM5hTaGvsrfEfixPA) before **11:59 pm, 13th August 2026**.
-
----
 
 Built with ❤️ for **HH Goa 2026** • *Build in Goa, Ship from Paradise! 🌴🚀*
