@@ -10,7 +10,6 @@ import {
   drawPostageStamp,
   drawRoundedRect,
   drawStar,
-  drawSun,
   drawTicketBorder,
   drawWaves,
   drawSticker,
@@ -388,7 +387,6 @@ export async function renderBuilderCard(
 
   // 7. LOWER INFORMATION SECTION
   const infoY = 910;
-  const infoH = 260;
 
   // Let's add some visual separation: horizontal ticket perforation/notches
   // Notch circles on left/right outer margins at info section top boundary
