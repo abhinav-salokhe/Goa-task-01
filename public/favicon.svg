@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#011C17"/>
+  <circle cx="32" cy="28" r="14" fill="#FF7A18" opacity="0.9"/>
+  <path d="M8 52 Q20 38 32 44 Q44 38 56 52" stroke="#52B788" stroke-width="3" fill="none"/>
+  <path d="M12 20 Q16 8 20 16" stroke="#52B788" stroke-width="2" fill="none"/>
+  <path d="M44 18 Q48 6 52 14" stroke="#52B788" stroke-width="2" fill="none"/>
+  <text x="32" y="58" text-anchor="middle" fill="#FFD21F" font-family="sans-serif" font-size="8" font-weight="bold">GOA</text>
+</svg>
