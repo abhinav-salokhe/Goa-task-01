@@ -62,7 +62,7 @@ A web tool for the **HH Goa 2026 Shortlisting Task** where users upload a photo 
 
 1. **Live Link**: [https://goa-task-01-7tx1i6fpz-abhinav-salokhes-projects.vercel.app/](https://goa-task-01-7tx1i6fpz-abhinav-salokhes-projects.vercel.app/) (Deployed on Vercel)
 2. **Post on X**: Generate your badge, hit **Share to X**, and post with the hashtag `#FrameInGoa`.
-3. **Submit Form**: Fill the Google Form at [https://forms.gle/jM5hTaGvsrfEfixPA](https://forms.gle/jM5hTaGvsrfEfixPA) before **11:59 pm, 13th August 2026**.
+
 
 ---
 
